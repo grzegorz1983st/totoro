@@ -16,6 +16,7 @@ window.TOTORO_DATA = {
   ],
 
   filmy: [
+    { plik: "Video_6.mp4", miniatura: "Miniatura_Manowo.png", opis: "Manowo — XX Jubileuszowa Krajowa Wystawa Psów Myśliwskich · 6 września 2026 r." },
     { plik: "Video_1.mp4", miniatura: "Miniatura_Ustka.png", opis: "Ustka — XXXVII Krajowa Wystawa Psów Rasowych · 23 maja 2026 r." },
     { plik: "Video_2.mp4", miniatura: "Miniatura_Czaplinek_Krajowa.png", opis: "Czaplinek — Krajowa Wystawa Psów Rasowych · 30 maja 2026 r." },
     { plik: "Video_3.mp4", miniatura: "Miniatura_Czaplinek_Miedzynarodowa.png", opis: "Czaplinek — VII Międzynarodowa Wystawa Psów Rasowych · 31 maja 2026 r." },
