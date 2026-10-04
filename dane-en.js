@@ -10,6 +10,7 @@ window.TOTORO_DATA = {
     { plik: "Galeria_8.jpg", opis: "Small dog, great achievements" }
   ],
   filmy: [
+    { plik: "Video_7.mp4", miniatura: "Miniatura_Wroclaw.png", opis: "Wrocław — 36th International Dog Show · 4 October 2026" },
     { plik: "Video_6.mp4", miniatura: "Miniatura_Manowo.png", opis: "Manowo — 20th Jubilee National Hunting Dog Show · 6 September 2026" },
     { plik: "Video_4.mp4", miniatura: "Miniatura_Gorzow.png", opis: "Gorzów Wielkopolski — International Dog Show · 11–12 July 2026" },
     { plik: "Video_3.mp4", miniatura: "Miniatura_Czaplinek_Miedzynarodowa.png", opis: "Czaplinek — 8th International Dog Show · 31 May 2026" },

@@ -16,6 +16,7 @@ window.TOTORO_DATA = {
   ],
 
   filmy: [
+    { plik: "Video_7.mp4", miniatura: "Miniatura_Wroclaw.png", opis: "Wrocław — XXXVI Międzynarodowa Wystawa Psów Rasowych · 4 października 2026 r." },
     { plik: "Video_6.mp4", miniatura: "Miniatura_Manowo.png", opis: "Manowo — XX Jubileuszowa Krajowa Wystawa Psów Myśliwskich · 6 września 2026 r." },
     { plik: "Video_4.mp4", miniatura: "Miniatura_Gorzow.png", opis: "Gorzów Wielkopolski — Międzynarodowa Wystawa Psów Rasowych · 11–12 lipca 2026 r." },
     { plik: "Video_3.mp4", miniatura: "Miniatura_Czaplinek_Miedzynarodowa.png", opis: "Czaplinek — VIII Międzynarodowa Wystawa Psów Rasowych · 31 maja 2026 r." },
